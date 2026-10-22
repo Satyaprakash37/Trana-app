@@ -1,0 +1,18 @@
+{
+  "name": "TRANA - Every step, safe",
+  "short_name": "TRANA",
+  "description": "Women safety companion & emergency response network",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1B2A4A",
+  "theme_color": "#1B2A4A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/shield.svg",
+      "sizes": "192x192 512x512 any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
